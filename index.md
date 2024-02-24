@@ -3,7 +3,7 @@ layout: soon
 permalink: /
 ---
 
-# HP-Speed
+# HP Speed
 
 Coming soon
 <html>
