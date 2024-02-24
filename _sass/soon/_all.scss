@@ -14,8 +14,8 @@ $size-large:  1.25rem;
 $size-xlarge: 1.5rem;
 
 $text-color:       #fdfdfd !default;
-$background-color: #2a1e20 !default;
-$primary-color:    #dd54ff !default;
+$background-color: #35363f !default;
+$primary-color:    #2c2c2c !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -29,5 +29,4 @@ $large-form-factor-width: 769px !default;
 
 @import "vendor/minireset",
         "base",
-        "forms",
         "layout";
