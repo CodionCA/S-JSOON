@@ -1,7 +1,10 @@
 ---
-layout: home
+layout: soon
 permalink: /
-title: "HP Speed"
-excerpt: "Coming Soon"
 ---
+
 # Coming soon
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
+Some call to action.
+
