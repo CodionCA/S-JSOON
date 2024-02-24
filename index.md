@@ -8,7 +8,6 @@ permalink: /
 Coming soon
 <html>
 <head>
-	<title>HTML Button Generator</title>
 	<style>
 		button {
 			color: #ffffff;
