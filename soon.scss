@@ -9,6 +9,9 @@
 
 {% if site.background %}
     html { background: url("{{ site.background }}") top left / cover no-repeat; }
+    img {
+        max-width: 100%;
+      }
 {% endif %}
 
 @import "soon/all";
