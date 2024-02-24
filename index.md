@@ -5,5 +5,5 @@ permalink: /
 
 # Coming soon
 
-HPSpeed Coming Soon
+HPSpeed
 
